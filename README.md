@@ -1,5 +1,10 @@
 # Personal Media Archiver (PMA)
 
+> **Development home:** https://github.com/ImL1s/personal-media-archiver  
+> Please open issues and pull requests there.  
+> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/personal-media-archiver) · [GitLab](https://gitlab.com/aa22396584/personal-media-archiver)
+
+
 **Language**: [English](./README.en.md) · **繁體中文**
 
 [![CI](https://github.com/ImL1s/personal-media-archiver/actions/workflows/ci.yml/badge.svg)](https://github.com/ImL1s/personal-media-archiver/actions/workflows/ci.yml)
